@@ -18,4 +18,4 @@ includes 28x28 grey-scale pixel values as features and a categorical class label
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md] (https://github.com/Bharathgc/Machine-Learning-Classifiers/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Bharathgc/Machine-Learning-Classifiers/blob/master/LICENSE) file for details
