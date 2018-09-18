@@ -1,4 +1,4 @@
-## Machine-Learning-Classifiers
+## Machine Learning Classifiers
 
 ### 1. Naive Bayes Classifier and Logistic Regression: 
   - ### Dataset : http://archive.ics.uci.edu/ml/datasets/banknote+authentication
